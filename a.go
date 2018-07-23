@@ -22,6 +22,14 @@ func fffffffffff() {
 	cccccccccc()
 }
 
+/*
+ * does something else new.
+ */
+func ggggggggg() {
+	bbbbbbbbbb()
+	fffffffffff()
+}
+
 //
 //
 //
